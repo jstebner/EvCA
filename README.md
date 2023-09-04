@@ -1,5 +1,5 @@
-# EvCA
-Evolving Cellular Automata with Genetic Algorithms
+# GCA
+Genetic Cellular Automata
 
 
 process:
